@@ -1,4 +1,4 @@
-name: Builder for forked
+name: Builder for forked repo
 
 on:
   push:
